@@ -1,0 +1,1 @@
+Scripts to take in an image input, extract the materials used to produce the outfit, search for the materials on Aliexpress, calculate the similarity between the materials found and the input image and finally produce a PDF with the top 5 most similar products.
